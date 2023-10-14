@@ -1,3 +1,5 @@
+package estruturas_condicionais;
+
 import java.sql.SQLOutput;
 
 public class SistemaMedida {
